@@ -2,7 +2,7 @@
 
 So, for this easy reverse challenge we are given a zip folder !
 
-![[Pasted image 20230909094852.png]]
+![[coffee_shop.png]]
 
 Time to unzip it !
 
