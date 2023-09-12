@@ -6,7 +6,7 @@ The challenge description :
 ![i2](patchwork_chall.png)
 ## Exploitation
 
-We open the file with gdb
+We open the file with gdb and then disassemble the main function which is often the most interesting function in reverse challenges.
 
 `gdb ./patchwork`
 
