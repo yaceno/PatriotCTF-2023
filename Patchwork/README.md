@@ -3,7 +3,7 @@
 Here's a write-up for a reverse challenge.  
 The challenge description :
 
-![[Pasted image 20230909101954.png]]
+![i2](patchwork_chall.png)
 ## Exploitation
 
 We open the file with gdb
