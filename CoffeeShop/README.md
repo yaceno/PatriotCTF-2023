@@ -2,7 +2,7 @@
 
 So, for this easy reverse challenge we are given a zip folder !
 
-![[coffee_shop.png]]
+![i2](coffee_shop.png)
 
 Time to unzip it !
 
@@ -17,7 +17,7 @@ The first step is to decompile this CoffeeShop.jar. If you're not used to revers
 
 So let's decompile CoffeeShop.jar with JD-GUI, we got the CoffeeShop.class :
 
-![[Pasted image 20230909095520.png]]
+![i2](code_coffee.png)
 
 Here's the text code :
 
