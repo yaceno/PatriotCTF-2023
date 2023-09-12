@@ -17,7 +17,7 @@ The first step is to decompile this CoffeeShop.jar. If you're not used to revers
 
 So let's decompile CoffeeShop.jar with JD-GUI, we got the CoffeeShop.class :
 
-![i2](code_coffee.png)
+![i2](code_cofee.png)
 
 Here's the text code :
 
